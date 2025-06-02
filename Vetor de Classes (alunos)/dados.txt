@@ -1,0 +1,30 @@
+Lucas Almeida
+201
+8,5
+Juliana Santos
+202
+4,2
+Pedro Oliveira
+203
+9,8
+Mariana Costa
+204
+7,0
+Rafael Souza
+205
+3,5
+Beatriz Pereira
+206
+5,0
+Thiago Ferreira
+207
+6,7
+Larissa Rodrigues
+208
+10,0
+Guilherme Martins
+209
+2,9
+Sofia Gonçalves
+210
+8,1
